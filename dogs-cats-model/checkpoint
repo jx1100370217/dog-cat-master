@@ -1,0 +1,3 @@
+model_checkpoint_path: "dog-cat.ckpt-25"
+all_model_checkpoint_paths: "dog-cat.ckpt-0"
+all_model_checkpoint_paths: "dog-cat.ckpt-25"
