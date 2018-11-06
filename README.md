@@ -1,5 +1,5 @@
 # dog-cat-master
-ÕâÊÇÒ»¸ö¼òµ¥µÄÃ¨¹··ÖÀà¡¢Ê¶±ğµÄTensorflowÊµÏÖ
-¶ÔÓ¦²©¿ÍµØÖ·£ºhttps://blog.csdn.net/u013010473/article/details/83753180
+è¿™æ˜¯ä¸€ä¸ªç®€å•çš„çŒ«ç‹—åˆ†ç±»ã€è¯†åˆ«çš„Tensorflowå®ç°ã€‚
+å¯¹åº”åšå®¢åœ°å€ï¼šhttps://blog.csdn.net/u013010473/article/details/83753180
 
 
