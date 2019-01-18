@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 # author: JX
 # data: 20190118
-
 import os
 import tensorflow as tf
 from PIL import Image
